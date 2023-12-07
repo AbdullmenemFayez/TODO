@@ -1,0 +1,39 @@
+
+.App {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+.App h1 {
+  text-align: center;
+}
+
+.inputTask{
+  margin-bottom: 10px;
+}
+
+.task-input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.addTask {
+  padding: 10px 20px;
+  background-color: purple;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-left: 165px;
+  
+}
+
+
+
+
